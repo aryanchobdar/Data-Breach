@@ -1,0 +1,2 @@
+# Data-Breach
+This project contains the different folders each folder contain code for data breach which can be used to crack passwords which are encrypted using MD5, MD6, RSA, SHA -1, DES, 3DES, AES, etc. Using this code you will be able to crack the passwords within 3 and half hour only T&amp;C apply. The machine should have minimum requirements as follows : Memory : 128 GB Processor : Intel or AMD
